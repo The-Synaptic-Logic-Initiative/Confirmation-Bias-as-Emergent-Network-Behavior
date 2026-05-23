@@ -44,5 +44,29 @@ $$\Delta w = \eta \times activation_i \times activation_j$$
     git clone [https://github.com/yourusername/emergent-confirmation-bias.git](https://github.com/yourusername/emergent-confirmation-bias.git)
 
 2. Navigate to the directory:
-  ```bash
-   cd emergent-confirmation-bias
+  ``bash
+      cd emergent-confirmation-bias
+
+4. Install dependencies:
+      Bash
+      npm install
+
+5. Start the development server:
+     Bash
+     npm run dev
+
+
+## 🛠️ Tech Stack Architecture
+Framework: React (.jsx functional components)
+
+Graph Layout: D3.js (Force-directed physics simulation and SVG rendering)
+
+Data Visualization: Recharts (Smooth, animated line charts for weight history)
+
+Styling: Tailwind CSS (Utility-first classes for a clean, dark-mode scientific aesthetic)
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are highly encouraged! If you are interested in computational cognitive science, graph theory, or UI/UX for complex data, feel free to check the issues page or submit a pull request.
+
+## 📝 License
+This project is MIT licensed.
